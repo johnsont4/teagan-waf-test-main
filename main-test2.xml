@@ -15,7 +15,7 @@
 
     <gmd:parentIdentifier gco:nilReason="inapplicable"/>
     <gmd:hierarchyLevel>
-        <gmd:MD_ScopeCode codeList="./resources/codeList.xml#MD_ScopeCode" codeListValue="">dataset</gmd:MD_ScopeCode>
+        <gmd:MD_ScopeCode codeList="./resources/codeList.xml#MD_ScopeCode" codeListValue="software">dataset</gmd:MD_ScopeCode>
     </gmd:hierarchyLevel>
 
     <gmd:contact>
